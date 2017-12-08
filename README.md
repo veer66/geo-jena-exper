@@ -1,6 +1,6 @@
 # geo-jena-exper
 
-geo-jena-exper is a simplified example of Geospartial query on Apache Jena written in Clojure.
+geo-jena-exper is a simplified example of Geospartial query (GeoSPARQL) on Apache Jena written in Clojure.
 
 ## Run
 
